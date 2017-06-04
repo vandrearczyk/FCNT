@@ -1,0 +1,12 @@
+bark16_t0
+lattice3_t0
+ceramic-houses_t0
+juwellery_t0
+glass7_t0
+mat4_t0
+rock10_t0
+bark8_t0
+glass5_t0
+stone24_t0
+wood1_t0
+mat2_t0

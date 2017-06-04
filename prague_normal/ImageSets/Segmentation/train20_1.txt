@@ -1,0 +1,6 @@
+wood1_t0
+wood2_t0
+wood_t0
+wood3_t0
+wood4_t0
+oak_t0

@@ -1,0 +1,11 @@
+wood4a_t0
+stone28_t0
+bark8_t0
+flower30_t0
+flower33_t0
+cloth29_t0
+bark18_t0
+rock12_t0
+cover8_t0
+stone24_t0
+carpet15_t0

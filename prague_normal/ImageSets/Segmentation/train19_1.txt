@@ -1,0 +1,6 @@
+cloth28_t0
+cover8_t0
+cover6_t0
+carpet14_t0
+cover1_t0
+cover3_t0

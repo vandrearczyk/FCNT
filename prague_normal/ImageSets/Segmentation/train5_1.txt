@@ -1,0 +1,7 @@
+flower30_t0
+hedge_t0
+cover3_t0
+ceramic-houses_t0
+stone22_t0
+carpet15_t0
+jackets_t0

@@ -1,0 +1,9 @@
+stone22_t0
+carpet15_t0
+bark8_t0
+cactus7_t0
+grid2_t0
+bark14_t0
+bark9_t0
+carpet16_t0
+flower34_t0

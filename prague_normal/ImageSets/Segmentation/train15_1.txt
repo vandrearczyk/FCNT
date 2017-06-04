@@ -1,0 +1,6 @@
+roots_t0
+muckheap_t0
+droppings_t0
+hedge_t0
+kaolin1_t0
+lichen9_t0

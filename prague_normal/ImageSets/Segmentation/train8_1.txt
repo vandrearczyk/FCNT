@@ -1,0 +1,10 @@
+bark8_t0
+cosmetics_t0
+stone19_t0
+rock11_t0
+rock16_t0
+cactus4_t0
+cactus6_t0
+bark16_t0
+cactus11_t0
+bark9_t0
