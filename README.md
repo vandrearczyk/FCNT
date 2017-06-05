@@ -19,6 +19,7 @@ The folder with jpg images must be downloaded and untared from the url provided 
 The 'fcnT' folder and the python files ('prague_helper.py' and 'prague_layers.py') must be copied into the root directory (root-fcn/)
 
 Once everything is installed and copied, you can run solve.py from the 'root-fcn/fcnT' directory as follows:
+
     usage: solve.py [-h] [--data data] [--n_iter n_iter]
 
     Supervised texture segmentation of the Prague normal dataset.
